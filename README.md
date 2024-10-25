@@ -26,10 +26,10 @@
     "Open-Source enthusiast"
   ],
   "skills": {
-    "programmingLanguages": ["JavaScript", "TypeScript", "PHP"],
-    "frontEnd": ["HTML", "CSS", "Material UI", "React.js"],
-    "backEnd": ["Node.js", "PostgreSQL", "MySQL"],
-    "tools": ["Windows", "Ubuntu", "VSCode", "Git", "Docker"]
+    "programmingLanguages": ["JavaScript", "TypeScript", "PHP", "Dotnet"],
+    "frontEnd": ["HTML", "CSS", "Tailwind CSS", "NextJS"],
+    "backEnd": ["Node.js", "PostgreSQL", "MySQL", "AWS"],
+    "tools": ["Windows", "Ubuntu", "VSCode", "Git", "Docker", "CoPilot"]
   }
 }
 ```
